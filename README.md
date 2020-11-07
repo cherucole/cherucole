@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/cherucole/cherucole/blob/master/laptop.jpeg" width="410" alt="laptop on desk" align="right" />
+<img src="https://github.com/cherucole/cherucole/blob/master/laptop.jpeg" width="410" alt="laptop on desk" align="right" style="border-radius:20px"/>
 </p>
 
 ## Hi there, I'm Cheruiyot 👋
