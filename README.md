@@ -18,3 +18,7 @@
 * 📱 Software engineer working with Javascript and [React native](https://reactnative.dev/) to build mobile apps with impeccable user experience for both Android and iOS.
 * 💻 Enjoys sharing my tech experience on [twitter](https://twitter.com/cherucole) and [blog posts](https://cherucole.medium.com/).
 * 🇰🇪 From [Nairobi, KE]().
+
+<a href="https://github.com/cherucole">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cherucole&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Cherucole" />
+</a>
