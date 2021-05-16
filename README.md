@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
 <a href="https://github.com/cherucole">
 <img align="center" width="410" height="210" src="https://github-readme-stats.vercel.app/api?username=cherucole&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Cherucole" />
 </a>
