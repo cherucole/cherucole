@@ -1,7 +1,8 @@
-
-  <a align="center" href="https://github.com/cherucole">
-<img  src="https://github-readme-stats.vercel.app/api?username=cherucole&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Cherucole" />
+<p align="center">
+  <a  href="https://github.com/cherucole">
+<img width="410" src="https://github-readme-stats.vercel.app/api?username=cherucole&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Cherucole" />
 </a>
+  </p>
 
 
 ## Hi there, I'm Cheruiyot 👋
