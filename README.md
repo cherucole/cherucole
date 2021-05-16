@@ -1,5 +1,7 @@
 <p align="center">
-<img src="https://github.com/cherucole/cherucole/blob/master/laptop.jpeg" width="410" alt="laptop on desk" align="right" style="border-radius:20px"/>
+<a href="https://github.com/cherucole">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cherucole&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Cherucole" />
+</a>
 </p>
 
 ## Hi there, I'm Cheruiyot 👋
