@@ -12,8 +12,7 @@
 <a href="https://www.linkedin.com/in/cheruiyotcollins/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 <a href="https://www.twitter.com/cherucole">
-<!-- <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a>  -->
-  ![Twitter URL](https://img.shields.io/twitter/follow/cherucole?label=Follow&style=social)
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 
 <a href="https://www.instagram.com/colleencheru">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
