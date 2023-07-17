@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a> 
 </p>
 
-* 📱 Software engineer working with Swift, SwiftUI, Javascript and [React Native](https://reactnative.dev/) to build mobile apps with impeccable user experience for both Android and iOS.
+* 📱 Software engineer working with Swift, SwiftUI and Javascript to build mobile apps with impeccable user experience for both iOS.
 * 💻 Enjoys sharing my tech experience on [twitter](https://twitter.com/cherucole) and [blog posts](https://cherucole.medium.com/).
 * 🇰🇪 From [Nairobi, KE]().
 
