@@ -21,5 +21,6 @@
 * 📱 Software engineer working with Swift, SwiftUI and Javascript to build apps with impeccable user experience for iOS and the Apple platform.
 * 💻 Enjoys sharing my tech experience on [twitter](https://twitter.com/cherucole) and [blog posts](https://cherucole.medium.com/).
 * 🇰🇪 From [Nairobi, KE]().
+* Download my apps on the [Appstore](https://apps.apple.com/id/developer/collins-cheruiyot/id1579009978)
 
 
